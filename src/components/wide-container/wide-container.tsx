@@ -1,6 +1,7 @@
 import React from "react";
 
 const WideContainer = () => {
-  return <div>WideContainer</div>;
+  return <div>dupsko</div>;
 };
+
 export default WideContainer;

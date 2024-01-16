@@ -1,5 +1,5 @@
 import "./App.scss";
-import { WideContainer } from "./components/wide-container/wide-container";
+import WideContainer from "./components/wide-container/wide-container";
 
 const App = () => {
   return (
